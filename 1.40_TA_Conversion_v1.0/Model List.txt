@@ -1,0 +1,31 @@
+Ammo Station - ammounit.DTS
+APC Large - hover_apc.DTS
+APC Small - hover_apc_sml.DTS
+Camera - camera.DTS
+Chaingun - chaingun.DTS
+Disc - discb.DTS
+Disc Launcher - disc.DTS
+Flag - flag.DTS
+Flag Stand - flagstand.DTS
+Generator - generator.DTS
+Grenade - grenade.DTS
+Grenade Launcher - grenadel.DTS
+Health Kit - armorkit.DTS
+Inventory Station - inventory_sta.DTS
+Jetpack - jetpack.DTS
+Mine - mine.DTS
+Mortar - mortargun.DTS
+Objective Switch - tower.DTS
+Plasma Gun - plasma.DTS
+Portable Generator - generator_p.DTS
+Pulse Sensor - radar.DTS
+Pulse Sensor Medium - sensor_pulse_med.DTS
+Repair Pack - armorpack.DTS
+Scout - flyer.DTS
+Shield Pack - shieldpack.DTS
+Sniper Rifle - sniper.DTS
+Tree 1 - tree1.DTS
+Tree 2 - tree2.DTS
+Vehicle Pad - vehi_pur_poles.DTS
+Vehicle Station - vehi_pur_pnl.DTS
+

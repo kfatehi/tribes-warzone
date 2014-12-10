@@ -1,0 +1,36 @@
+a - armor
+b - weapons
+c - Backpacks
+d - defences
+e - turrets
+f - stations
+g - sensors
+h - platforms
+i - Area Effect Items
+j - Bases
+k - 
+l - 
+m - 
+n - 
+o - 
+p - 
+q - 
+r - 
+x - 
+t - 
+u - 
+v - 
+w - toolz
+x - Ammo
+y - miscellany
+z - energy (mana...)
+
+
+0  - $ToolSlot
+1  - $WeaponSlot
+2  - $BackpackSlot
+3  - $FlagSlot
+4  - $ExtraWeaponSlotA
+5  - $ExtraWeaponSlotB
+6  - $ExtraWeaponSlotC
+7  - $ExtraWeaponSlotD

@@ -1,0 +1,12 @@
+---------- Forwarded message ----------
+From: Benson Tsai <btsai@vrwarp.com>
+Date: Mon, Aug 31, 2009 at 8:09 AM
+Subject: novamorpher scripts
+To: daggerandcloaked@gmail.com
+
+Hello,
+
+I have attached the novamorpher mod as per your request. It is simply an archive of what I have in my Tribes folder in scripts form (may be more useful to you). I took a look at some of my scripts, it looks like I at least informally credited my sources. I definitely pulled things from Meltdown Classic/Hell, Shifter, and Chivalry (and maayybe Annihilation). You can unzip tar.bz2 with 7-zip (http://www.7-zip.org/) or winrar.
+
+Thanks,
+Benson Tsai (VRWarper)
